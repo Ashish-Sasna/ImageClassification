@@ -1,1 +1,0 @@
-archive/cifar-10-batches-py/prcsd* filter=lfs diff=lfs merge=lfs -text
