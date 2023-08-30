@@ -1,2 +1,5 @@
-# ignore all .html files
+# ignore below files
 *.html
+*.npy
+archive/cifar-10-batches-py/preprocessed_batch_*.pkl
+archive/cifar-10-batches-py/test_batch.pkl
